@@ -1,0 +1,3 @@
+[submodule "traction_predict"]
+	path = traction_predict
+	url = git@github.com-sunimali:Sunimali/TFM_traction_predict.git
