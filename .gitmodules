@@ -1,6 +1,6 @@
 [submodule "traction_predict"]
 	path = traction_predict
-	url = git@github.com-sunimali:Sunimali/TFM_traction_predict.git
+	url = git@github.com:Sunimali/TFM_traction_predict.git
 [submodule "boundary_predict"]
 	path = boundary_predict
-	url = git@github.com-sunimali:Sunimali/TFM_boundary_predict.git
+	url = git@github.com:Sunimali/TFM_boundary_predict.git
